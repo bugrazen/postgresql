@@ -29,6 +29,11 @@ sudo apt-get -y install postgresql
 sudo systemctl status postgresql
 ```
 
+## 6. PostGIS eklentisi kurulumu:
+```
+sudo apt install postgis
+```
+
 ---
 
 # Kurulum sonrası işlemler
