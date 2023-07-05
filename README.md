@@ -40,5 +40,8 @@ sudo apt install postgis
 
 ## PostgreSQL veritabanı sunucusuna "postgres" kullanıcısıyla giriş yapmak için:
 ```
-sudo -u postgres psql
+su - postgres
+```
+```
+psql
 ```
