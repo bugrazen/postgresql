@@ -71,3 +71,9 @@ grant all privileges on database yt to youtube;
 ```
 \q
 ```
+## PostgreSQL' in kullandığı 5432 portunu açmak için:
+```
+sudo ufw status
+```
+```
+sudo ufw allow 5432
