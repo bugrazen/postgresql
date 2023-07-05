@@ -38,10 +38,15 @@ sudo apt install postgis
 
 # Kurulum sonrası işlemler
 
-## PostgreSQL veritabanı sunucusuna "postgres" kullanıcısıyla giriş yapmak için:
+## 7. PostgreSQL veritabanı sunucusuna "postgres" kullanıcısıyla giriş yapmak için:
 ```
 su - postgres
 ```
 ```
 psql
 ```
+## 8. Veri tabanı oluşturma:
+```
+create database yt;
+```
+
