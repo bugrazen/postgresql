@@ -49,4 +49,7 @@ psql
 ```
 create database yt;
 ```
-
+## 9. Kullanıcı oluşturma:
+```
+create user youtube with password '123';
+```
