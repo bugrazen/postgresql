@@ -53,3 +53,21 @@ create database yt;
 ```
 create user youtube with password '123';
 ```
+## 10. Kullanıcıya diğer gereken yetkileri vermek için:
+```
+grant all privileges on database yt to youtube;
+```
+---
+# Diğer komutlar
+## Veri tabanı listesi:
+```
+\l
+```
+## Kullanıcı listesi:
+```
+\du
+```
+## PostgreSQL sunucusundan çıkmak için:
+```
+\q
+```
