@@ -2,6 +2,7 @@
 
 ---
 
+
 # Ubuntu Server için PostgreSQL kurulum adımları
 ## 1. Dosya deposu yapılandırmasını oluşturun:
 ```
