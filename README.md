@@ -25,7 +25,7 @@ sudo apt-get update
 sudo apt-get -y install postgresql
 ```
 
-## 5. kurduğumuz PostgreSQL' in durumunu sorgulamak için:
+## 5. Kurduğumuz PostgreSQL' in durumunu sorgulamak için:
 ```
 sudo systemctl status postgresql
 ```
