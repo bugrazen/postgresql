@@ -58,7 +58,7 @@ create user youtube with password '123';
 ```
 grant all privileges on database yt to youtube;
 ```
-## 11. Oluşturduğunuz veri tabanına postgis eklentinisi yüklemek için:
+## 11. Oluşturduğunuz veri tabanına PostGIS eklentinisi yüklemek için:
 ```
 psql -d yt
 create extension postgis;
